@@ -3,7 +3,7 @@
 //  Find Tweets
 //
 //  Created by Michael Koby on 10/24/11.
-//  Copyright (c) 2011 Teabrick. All rights reserved.
+//  Copyright (c) 2011 Michael Koby. All rights reserved.
 //
 
 #import "TweetItem.h"

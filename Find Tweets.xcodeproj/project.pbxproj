@@ -223,7 +223,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
-				ORGANIZATIONNAME = Teabrick;
+				ORGANIZATIONNAME = Michael Koby;
 			};
 			buildConfigurationList = 74E492CC145754D4004FE000 /* Build configuration list for PBXProject "Find Tweets" */;
 			compatibilityVersion = "Xcode 3.2";
